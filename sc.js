@@ -1,7 +1,4 @@
 
-    function hrefFunction(){
-        windows.location.href = "https://arungz.github.io/maadu/mayilu";
-    }  
     // disable right click
     document.addEventListener('contextmenu', event => event.preventDefault());
 
