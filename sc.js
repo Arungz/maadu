@@ -4,7 +4,7 @@ function validate()
        && document.getElementById("text2").value == "enperukarthika" )
     {
         alert( "validation succeeded" );
-        location.href="mayilu.html";
+        location.href="https://arungz.github.io/maadu/mayilu.html";
     }
     else
     {
