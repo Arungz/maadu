@@ -4,8 +4,7 @@ function validate()
        && document.getElementById("text2").value == "enperukarthika" )
     {
         alert( "validation succeeded" );
-        location.href="mayilu.html";
-        return false;
+        action="mayilu.html";
     }
     else
     {
