@@ -55,7 +55,8 @@ input{
     opacity: .8;
 }
 button{
-    width: 50%;
+    position: relative; top: -20px;
+    width: 60%;
     margin: 3% auto;
     color: white;
     font-size: 15px;
@@ -71,6 +72,7 @@ button{
     border-top: 1px solid rgba(255, 255, 255, .3);
 }
 a{
+    position: relative; top: 20px;
     font-size: 12px;
     text-align: center;
     color: white;

@@ -1,8 +1,9 @@
   function validate()
 {
-    if(   document.getElementById("text1").value == "0"
-       && document.getElementById("text2").value == "0" )
+    if(   document.getElementById("text1").value == "Karthika"
+       && document.getElementById("text2").value == "29072000" )
     {
+        alert("Avalothan Soli Mudinju");
         location.href="mayilu.html";
     }else if(document.getElementById("text1").value == ""
     && document.getElementById("text2").value == ""){
@@ -10,8 +11,12 @@
     }
     else
     {
-        location.href="https://youtu.be/Rxgsl6Wlt04";
+        location.href="https://youtube.com/shorts/O5ONvK29Nds?feature=share";
     }
+}
+  function Hint()
+{
+    alert("Sollamatten Pooda Korangu.....");
 }
     // disable right click
     document.addEventListener('contextmenu', event => event.preventDefault());
