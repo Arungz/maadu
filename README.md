@@ -1,3 +1,3 @@
 QR CODE :
 =========
-http://surl.li/jizqq
+https://arungz.github.io/maadu/qr.html
