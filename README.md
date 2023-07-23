@@ -5,5 +5,7 @@ QR CODE :
 
 PAGE LINK:
 ==========
-![LINK](https://arungz.github.io/maadu/ "PAGE")
+```
+   https://arungz.github.io/maadu/
+```
 <p align="center">
