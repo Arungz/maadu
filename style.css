@@ -17,7 +17,7 @@ body{
      background: linear-gradient(to right,#3f5efb,#fc466b);
 }
 form{
-    width: 25rem;
+    width: 22rem;
     height: 28rem;
     display: flex;
     flex-direction: column;
@@ -27,7 +27,8 @@ form{
     border-left: 1px solid rgba(255, 255, 255, .3);
     border-top: 1px solid rgba(255, 255, 255, .3);
 }
-h1{
+h1{  
+    position: relative; top: 7px;
     font-size: 30px;
     text-align: center;
     color: white;
@@ -37,6 +38,7 @@ h1{
     opacity: .7;
 }
 label{
+    position: relative; top: 7px;
     font-size: 20px;
     color: white;
     margin-left: 10%;
@@ -55,7 +57,7 @@ input{
     opacity: .8;
 }
 button{
-    position: relative; top: -20px;
+    position: relative; top: -10px;
     width: 60%;
     margin: 3% auto;
     color: white;
@@ -72,7 +74,7 @@ button{
     border-top: 1px solid rgba(255, 255, 255, .3);
 }
 a{
-    position: relative; top: 20px;
+    position: relative; top: 7px;
     font-size: 12px;
     text-align: center;
     color: white;
