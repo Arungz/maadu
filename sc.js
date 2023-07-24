@@ -7,11 +7,11 @@
         location.href="mayilu.html";
     }else if(document.getElementById("text1").value == ""
     && document.getElementById("text2").value == ""){
-        location.href="https://youtube.com/shorts/XOilrabaXVI?feature=share"; 
+        location.href="https://youtube.com/shorts/p7yxVHGgvvw?feature=share"; 
     }
     else
     {
-        location.href="https://youtube.com/shorts/O5ONvK29Nds?feature=share";
+        location.href="https://youtube.com/shorts/XOilrabaXVI?feature=share";
     }
 }
   function Hint()
