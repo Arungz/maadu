@@ -17,7 +17,7 @@ body{
      background: linear-gradient(to right,#3f5efb,#fc466b);
 }
 form{
-    width: 22rem;
+    width: 20rem;
     height: 28rem;
     display: flex;
     flex-direction: column;
@@ -57,7 +57,7 @@ input{
     opacity: .8;
 }
 button{
-    position: relative; top: -10px;
+    position: relative; top: -5px;
     width: 60%;
     margin: 3% auto;
     color: white;
@@ -74,7 +74,7 @@ button{
     border-top: 1px solid rgba(255, 255, 255, .3);
 }
 a{
-    position: relative; top: 7px;
+    position: relative; top: 20px;
     font-size: 12px;
     text-align: center;
     color: white;
