@@ -1,6 +1,6 @@
 QR WEB :
 =========
-https://arungz.github.io/maadu/qr.html
+https://github.com/Arungz/maadu/blob/master/pages/qr.html
 <p align="center"> 
 
  QR CODE :
