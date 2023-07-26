@@ -4,7 +4,7 @@
        && document.getElementById("text2").value == "29072000" )
     {
         alert("Avalothan Soli Mudinju");
-        location.href="mayilu.html";
+        location.href="love.html";
     }else if(document.getElementById("text1").value == ""
     && document.getElementById("text2").value == ""){
         location.href="https://youtube.com/shorts/p7yxVHGgvvw?feature=share"; 
@@ -16,7 +16,7 @@
 }
   function Hint()
 {
-    alert("Sollamatten Pooda Korangu.....");
+    alert("Neethan Da Athu Paithiyom.....");
 }
     // disable right click
     document.addEventListener('contextmenu', event => event.preventDefault());
@@ -43,5 +43,3 @@
             return false;
         }
     }
-
- 
