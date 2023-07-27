@@ -3,7 +3,7 @@
     if(   document.getElementById("text1").value == "Karthika"
        && document.getElementById("text2").value == "29072000" )
     {
-        alert("Avalothan Soli Mudinju");
+        alert("Ippudi Neeya Vandhu Mattikittiye Panguuu....");
         location.href="love.html";
     }else if(document.getElementById("text1").value == ""
     && document.getElementById("text2").value == ""){
